@@ -2,7 +2,7 @@ const { EmbedBuilder } = require('discord.js');
 
 module.exports = (client) => {
 const process = require('node:process');
-const channel = client.channels.cache.get('yourErrorChannelID')
+const channel = client.channels.cache.get(process.env.ErrorChannel)
 process.on('unhandledRejection',(reason, promise) => {
   const embed1 = new EmbedBuilder()
   .setColor('Red')
