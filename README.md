@@ -7,10 +7,10 @@ This project was created to give people that are starting with bot developing a 
 
 ## ✨Features
 
-* ✔️ Getting started;
-* 🤔 Questions;
-* ❗ Possible errors;
-* 💻 Development & Support;
+* ✔️ Getting started
+* 🤔 Questions
+* ❗ Possible errors
+* 💻 Development & Support
 
 ## 🚀 Getting started
 ### 1. Create Application & Invite to server
